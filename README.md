@@ -1,2 +1,2 @@
 # DS&ML
-DeepLearning Project in USW DSML Center
+Deeplearning Project in USW DSML Center
